@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kevin-27
+- 👋 Hi, I’m Kevin.
 - 👀 I’m interested in making my portfolio. 
 - 🌱 I’m currently learning programing.
 - 💞️ I’m looking to collaborate on ...
