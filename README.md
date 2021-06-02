@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Kevin.
-- 👀 I’m interested in making my portfolio. 
-- 🌱 I’m currently learning programing.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m Kevin.
+
 
 <!---
 kevin-27/kevin-27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
