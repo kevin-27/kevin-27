@@ -1,4 +1,4 @@
-Hi, I’m Kevin.
+These are programs I made. The JavaScript ones can be run in the broswer.
 
 
 <!---
